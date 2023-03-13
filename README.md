@@ -2,16 +2,16 @@
 ### 👋 Hi, I’m Iqra
 ##### 🔭 I’m currently working on Excel, PowerBi, Tableau, Azure
 ##### 👀 I’m interested in Data Analytics
-## Langugaes:
-HTML, CSS, JavaScript
-C, C++, C#
-VB.Net
-XML, Java
-SQL
-R
+### Langugaes:
+. HTML, CSS, JavaScript
+. C, C++, C#
+. VB.Net
+. XML, Java
+. SQL
+. R
 
 
-## Tools:
+### Tools:
 Microsoft Office( i-e Excel, Access)
 Android Studio
 Scratch
