@@ -1,7 +1,7 @@
  
 ### 👋 Hi, I’m Iqra
-### 🔭 I’m currently working on Excel, PowerBi, Tableau, Azure
-### 👀 I’m interested in Data Analytics
+# 🔭 I’m currently working on Excel, PowerBi, Tableau, Azure
+## 👀 I’m interested in Data Analytics
 
 • 📫 You can connect with me on LinkedIn: (https://www.linkedin.com/in/iqra-irshad-505339265/)
 
