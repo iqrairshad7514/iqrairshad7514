@@ -4,16 +4,31 @@
 ##### 👀 I’m interested in Data Analytics
 ### Langugaes:
 HTML, CSS, JavaSript
+
 C, C++, C#
+
+VB.NET
+
+XML, Java
+
+SQL
+
+R
 
 
 ### Tools:
 Microsoft Office( i-e Excel, Access)
+
 Android Studio
+
 Scratch
+
 WordPress
+
 PowerBi
+
 MySql
+
 Tableau
 
 
