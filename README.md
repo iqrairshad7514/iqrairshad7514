@@ -3,12 +3,8 @@
 ##### 🔭 I’m currently working on Excel, PowerBi, Tableau, Azure
 ##### 👀 I’m interested in Data Analytics
 ### Langugaes:
-. HTML, CSS, JavaScript
-. C, C++, C#
-. VB.Net
-. XML, Java
-. SQL
-. R
+HTML, CSS, JavaSript
+C, C++, C#
 
 
 ### Tools:
