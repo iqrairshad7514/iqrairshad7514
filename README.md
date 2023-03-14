@@ -28,7 +28,6 @@ WordPress
 PowerBi
 
 MySql
-
 Tableau
 
 
